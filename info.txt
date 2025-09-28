@@ -1,0 +1,27 @@
+Legal document - DO NOT EDIT
+
+
+-Credits and assets-
+
+asset type - author - asset name - link
+
+Assets (royalty free) [characters, tiles]:
+Pixel Frog - Pixel Adventure
+https://pixelfrog-assets.itch.io/pixel-adventure-1
+
+Music (royalty free):
+moodmode - 8 Bit Retro Game Music
+https://pixabay.com/music/video-games-8-bit-retro-game-music-233964
+
+
+
+-License-
+
+© 2024-2025 PTTT DEV. All rights reserved.
+BMSZC Puskás Tivadar informatikai és távközlési technikum
+PTTT DEV template made by Dobosi Péter 
+created: 2025-01-03
+https://pttt.dev/course
+
+edit log:
+	2025-01-05 P3cap

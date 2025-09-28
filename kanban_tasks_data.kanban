@@ -1,0 +1,138 @@
+{
+	"categories": [
+		{
+			"uuid": "d29ab291-c93b-498a-b344-3ce0d2bf029c",
+			"title": "Easy",
+			"color": "70fa7f"
+		},
+		{
+			"uuid": "9eee1b7b-a06b-4bee-a6c9-bd7e3e097c5c",
+			"title": "Medium",
+			"color": "c0d62a"
+		},
+		{
+			"uuid": "e54c33e3-9150-45e0-83c9-a21d786de1f6",
+			"title": "Hard",
+			"color": "b91717"
+		},
+		{
+			"uuid": "a2480f6f-744f-4e4e-9463-43d37e8d212f",
+			"title": "Challange",
+			"color": "a807f9"
+		},
+		{
+			"uuid": "f616534b-b5ac-44b0-8c17-c380040cde61",
+			"title": "help",
+			"color": "888888"
+		}
+	],
+	"stages": [
+		{
+			"uuid": "40220882-245a-4aa8-8a15-4d2262ad4e24",
+			"title": "Easy",
+			"tasks": [
+				"e0d70426-8d9f-4aa4-bc85-20a0c94b563c"
+			]
+		},
+		{
+			"uuid": "ff2f075b-9dc7-4636-8a53-e2cab4ae8f38",
+			"title": "DONE!",
+			"tasks": [
+				"d207d09f-61f3-48b0-9ac9-abfbd8e58857"
+			]
+		},
+		{
+			"uuid": "f8e5ff7f-0d47-4a61-9ac6-721801b0f48c",
+			"title": "Medium",
+			"tasks": [
+				"b6b7ffc2-e805-491b-b0c9-678ef57f69e7"
+			]
+		},
+		{
+			"uuid": "3da349c3-f32b-407f-b9ba-7a862de9b263",
+			"title": "Hard",
+			"tasks": [
+				"64e171b9-402f-43e4-b5a4-0cd1f8324673"
+			]
+		},
+		{
+			"uuid": "5d4b493a-5446-49d7-b110-0ed4324d3817",
+			"title": "Challange",
+			"tasks": [
+				"4119b784-3299-492c-b669-da9472f965cc"
+			]
+		}
+	],
+	"tasks": [
+		{
+			"uuid": "e0d70426-8d9f-4aa4-bc85-20a0c94b563c",
+			"title": "Change jump power to fit the game!",
+			"description": "",
+			"category": "d29ab291-c93b-498a-b344-3ce0d2bf029c",
+			"steps": [
+				{
+					"details": "Open player script (on the left 'Player' node's little paper icon)",
+					"done": false
+				},
+				{
+					"details": "Change the 'jump' varible to suit the game",
+					"done": false
+				}
+			]
+		},
+		{
+			"uuid": "b6b7ffc2-e805-491b-b0c9-678ef57f69e7",
+			"title": "Finish the map!",
+			"description": "",
+			"category": "9eee1b7b-a06b-4bee-a6c9-bd7e3e097c5c",
+			"steps": [
+				{
+					"details": "Open the TileMap (in the scenetree)",
+					"done": false
+				},
+				{
+					"details": "Select your block",
+					"done": false
+				},
+				{
+					"details": "Start placing them!",
+					"done": false
+				}
+			]
+		},
+		{
+			"uuid": "4119b784-3299-492c-b669-da9472f965cc",
+			"title": "Double jump",
+			"description": "Try to figure out this one [:    (click this twice for hint)\n\n\n\n\n\nHA   ugrik  ÉS  nincs a földön  ÉS  ugrások > 0    AKKOR    ugrások -= 1",
+			"category": "a2480f6f-744f-4e4e-9463-43d37e8d212f",
+			"steps": []
+		},
+		{
+			"uuid": "64e171b9-402f-43e4-b5a4-0cd1f8324673",
+			"title": "Change the game music",
+			"description": "No help this time [:",
+			"category": "e54c33e3-9150-45e0-83c9-a21d786de1f6",
+			"steps": []
+		},
+		{
+			"uuid": "d207d09f-61f3-48b0-9ac9-abfbd8e58857",
+			"title": "Hint menu",
+			"description": "click on this if you need some help\n\nif you're fininshed with one of the tasks you can pull them inside the 'DONE!' section by drag and drop\n\n\nfor any other porblems:\n\nhold the mouse ->\nclick twice ->\nput your hands on your head ->\nyell very loudly: \"MEGAKADTAM VALAKI SEGÍTSEN\" ->\nour assitants will be on their way to help you out (:\n",
+			"category": "f616534b-b5ac-44b0-8c17-c380040cde61",
+			"steps": []
+		}
+	],
+	"layout": {
+		"columns": [
+			[
+				"40220882-245a-4aa8-8a15-4d2262ad4e24",
+				"f8e5ff7f-0d47-4a61-9ac6-721801b0f48c",
+				"3da349c3-f32b-407f-b9ba-7a862de9b263",
+				"5d4b493a-5446-49d7-b110-0ed4324d3817"
+			],
+			[
+				"ff2f075b-9dc7-4636-8a53-e2cab4ae8f38"
+			]
+		]
+	}
+}
